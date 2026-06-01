@@ -10,27 +10,34 @@ By the end of the workshop, participants will have trained and evaluated compute
 
 ## Workshop Materials
 
-### Before the Workshop
+## Before the Workshop
 
 - Setup Instructions
 - Create a Roboflow account
 - Confirm access to a web browser
 - Review the workshop schedule
 
-### During the Workshop
+## During the Workshop
 
-- Lesson 1: Introduction to Computer Vision
-- Lesson 2: Image Annotation and Semantic Segmentation
-- Lesson 3: Model Training and Evaluation
-- Lesson 4: Applying Models to Biological Questions
+### Lessons
 
-### Resources
+#### Lesson 1: Introduction to Computer Vision
+
+- [Slides (PDF)](lesson1_slides_placehold.pdf)
+
+#### Lesson 2: Image Annotation and Semantic Segmentation
+
+#### Lesson 3: Model Training and Evaluation
+
+#### Lesson 4: Applying Models to Biological Questions
+
+## Resources
 
 - Datasets
 - [Frequently Asked Questions](faq.md)
 - Additional Reading
 
-### After the Workshop
+## After the Workshop
 
 - Slides and recordings
 - Example datasets
