@@ -27,7 +27,7 @@ By the end of the workshop, participants will have trained and evaluated compute
 ### Resources
 
 - Datasets
-- Frequently Asked Questions
+- [Frequently Asked Questions](faq.md)
 - Additional Reading
 
 ### After the Workshop
