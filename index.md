@@ -23,7 +23,7 @@ By the end of the workshop, participants will have trained and evaluated compute
 
 #### Lesson 1: Introduction to Computer Vision
 
-- [Slides (PDF)](lesson1_slides_placehold.pdf)
+- [Slides (PDF)](lesson1/lesson1_slides_placehold.pdf)
 
 #### Lesson 2: Image Annotation and Semantic Segmentation
 
